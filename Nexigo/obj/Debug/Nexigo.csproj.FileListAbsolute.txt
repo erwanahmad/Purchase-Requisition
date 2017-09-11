@@ -1,0 +1,136 @@
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Nexigo.dll.config
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Nexigo.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Nexigo.pdb
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Nexigo.Resources.Server.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Owin.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.xml
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\obj\Debug\Nexigo.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\obj\Debug\Nexigo.pdb
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.xml
+D:\Nexigo-Template\Nexigo\bin\Nexigo.dll.config
+D:\Nexigo-Template\Nexigo\bin\Nexigo.dll
+D:\Nexigo-Template\Nexigo\bin\Nexigo.pdb
+D:\Nexigo-Template\Nexigo\bin\Microsoft.Owin.dll
+D:\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+D:\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+D:\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.dll
+D:\Nexigo-Template\Nexigo\bin\Nexigo.Resources.Server.dll
+D:\Nexigo-Template\Nexigo\bin\Owin.dll
+D:\Nexigo-Template\Nexigo\bin\Microsoft.Owin.xml
+D:\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+D:\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+D:\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.xml
+D:\Nexigo-Template\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+D:\Nexigo-Template\Nexigo\obj\Debug\Nexigo.dll
+D:\Nexigo-Template\Nexigo\obj\Debug\Nexigo.pdb
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Nexigo.dll.config
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Nexigo.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Nexigo.pdb
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Nexigo.Resources.Server.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Owin.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Net.Http.Formatting.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Web.Cors.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Web.Http.Cors.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Web.Http.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.xml
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.xml
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Net.Http.Formatting.xml
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Web.Http.xml
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Web.Http.Cors.xml
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\obj\Debug\Nexigo.dll
+D:\MI\VB C#\Nexigo-Template 3\Nexigo-Template\Nexigo\obj\Debug\Nexigo.pdb
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Nexigo.dll.config
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Nexigo.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Nexigo.pdb
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Nexigo.Resources.Server.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Owin.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Net.Http.Formatting.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Web.Cors.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Web.Http.Cors.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Web.Http.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.xml
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.xml
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Net.Http.Formatting.xml
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Web.Http.xml
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\bin\System.Web.Http.Cors.xml
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\obj\Debug\Nexigo.dll
+E:\NEXIGO\ULTIMATE\Nexigo-Template 3\Nexigo-Template\Nexigo\obj\Debug\Nexigo.pdb
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Nexigo.dll.config
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Nexigo.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Nexigo.pdb
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Microsoft.Owin.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Nexigo.Resources.Server.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Owin.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\System.Net.Http.Formatting.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\System.Web.Cors.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\System.Web.Http.Cors.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\System.Web.Http.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Microsoft.Owin.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\System.Net.Http.Formatting.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\System.Web.Http.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\bin\System.Web.Http.Cors.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\obj\Debug\Nexigo.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Nexigo-Template 3.1\Nexigo-Template\Nexigo\obj\Debug\Nexigo.pdb
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Nexigo.dll.config
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Nexigo.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Nexigo.pdb
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Microsoft.Owin.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Newtonsoft.Json.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Nexigo.Resources.Server.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Owin.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\System.Net.Http.Formatting.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\System.Web.Cors.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\System.Web.Http.Cors.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\System.Web.Http.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Microsoft.Owin.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\Newtonsoft.Json.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\System.Net.Http.Formatting.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\System.Web.Http.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\bin\System.Web.Http.Cors.xml
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\obj\Debug\Nexigo.dll
+C:\Users\Erwan A Ardiansyah\Desktop\Purchase Requitition Makers4\Purchase Requitition Makers4\Nexigo\obj\Debug\Nexigo.pdb
